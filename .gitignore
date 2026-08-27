@@ -1,5 +1,6 @@
 .env
 doc.md
+INTERVIEW_GUIDE.md
 backend/app.db
 *.db
 *.sqlite3
