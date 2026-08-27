@@ -1,0 +1,5 @@
+anthropic
+razorpay
+streamlit
+python-dotenv
+openai
